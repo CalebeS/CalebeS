@@ -11,7 +11,7 @@ Hi, Im Calebe, 25y
 
 ### Contact
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-palhano-30911a1b6/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebe-santos-146316218/)
 
 <div>
   <a href="https://github.com/CalebeS">
