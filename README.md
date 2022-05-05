@@ -1,13 +1,13 @@
 Hi, Im Calebe, i have 25y, Back end Developer.
 
-### Languages and tools 🧰
+### Progress ❗
 <div>
   <a href="https://github.com/CalebeS">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CalebeS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeS&layout=compact&langs_count=4&theme=midnight-purple"/>
 </div>
 
-  
+ ### Languages and tools 🧰 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![DjangoRest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
@@ -19,6 +19,7 @@ Hi, Im Calebe, i have 25y, Back end Developer.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 </br>
 
