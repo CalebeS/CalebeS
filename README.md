@@ -1,6 +1,13 @@
 Hi, Im Calebe, i have 25y, Back end Developer.
 
 ### Languages and tools 🧰
+<div>
+  <a href="https://github.com/CalebeS">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CalebeS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeS&layout=compact&langs_count=4&theme=midnight-purple"/>
+</div>
+
+  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![DjangoRest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
@@ -20,8 +27,3 @@ Hi, Im Calebe, i have 25y, Back end Developer.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebe-santos-146316218/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5583998011865&text=Oi%20Calebe)
 
-<div>
-  <a href="https://github.com/CalebeS">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CalebeS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeS&layout=compact&langs_count=4&theme=dark"/>
-</div>
