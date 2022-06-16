@@ -1,4 +1,4 @@
-Hi, Im Calebe, i have 25y, Back end Developer.
+Hi, Im Calebe, Back end Developer.
 
 ### Progress ❗
 <div>
