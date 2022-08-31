@@ -1,6 +1,6 @@
 Hi, Im Calebe, Back end Developer.
 
-### Progress ❗
+### Progress❗
 <div>
   <a href="https://github.com/CalebeS">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CalebeS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
