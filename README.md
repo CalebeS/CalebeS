@@ -1,4 +1,4 @@
-Hi, Im Calebe, Back end Developer.
+Hi, Im Calebe, Back end Developer with Node.js and React.js as a base.
 
 ### Progress❗
 <div>
