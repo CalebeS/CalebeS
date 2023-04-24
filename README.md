@@ -1,4 +1,4 @@
-Hi, Im Calebe, Back end Developer with Node.js and React.js as a base.
+Hi, Im Calebe, Fullstack Developer with React.js and Node.js as a base.
 
 ### Progress❗
 <div>
