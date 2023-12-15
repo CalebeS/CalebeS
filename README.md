@@ -1,11 +1,7 @@
 Hi, Im Calebe, Fullstack Developer with React.js and Node.js as a base.
 
 ### Progress❗
-<div>
-  <a href="https://github.com/CalebeS">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CalebeS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeS&layout=compact&langs_count=4&theme=midnight-purple"/>
-</div>
+![68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966](https://user-images.githubusercontent.com/74063350/173060591-8a3b515b-6605-446c-a128-08b3ab3adfdd.gif)
 
  ### Languages and tools 🧰 
  <div style="display: inline_block"><br>
